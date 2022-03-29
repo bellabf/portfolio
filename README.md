@@ -11,6 +11,6 @@
 
 ## Tutorials
 
-* [Cowplot tutorial in PT-BR] (https://www.somaquadrados.com/blog/cowplot/)
-* [Violin plot tutorial in PT-BR] (https://www.somaquadrados.com/blog/violinplot/) 
-* [Introduction to Dimensional Reduction Methods in R] (https://github.com/bellabf/dimensional-reduction) *underdevelopment* 
+* [Cowplot tutorial in PT-BR](https://www.somaquadrados.com/blog/cowplot/)
+* [Violin plot tutorial in PT-BR](https://www.somaquadrados.com/blog/violinplot/) 
+* [Introduction to Dimensional Reduction Methods in R](https://github.com/bellabf/dimensional-reduction) *underdevelopment* 

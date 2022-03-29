@@ -1,5 +1,4 @@
-# Portfolio projects
-
+# Portfolio 
 ## Machine Learning
  * [Genetic Algorithm to model tumor growth model](https://github.com/bellabf/hypertumor)
  * Feature engineering in high dimensional multi-omics data *currently developing* 
